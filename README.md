@@ -1,7 +1,7 @@
 # Bookmarks
 
 <h2><b>React</b></h2>
-<img height:"50px" src="images/react.png" alt="">
+<img src="images/react.png" alt="" style="height:50px">
 <ul>
   <li></li>
 </ul>
