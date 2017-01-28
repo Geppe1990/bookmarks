@@ -52,3 +52,107 @@
   <li>https://code.tutsplus.com/series/introducing-the-wp-rest-api--cms-896</li>
   <li>https://code.tutsplus.com/tutorials/introducing-the-wp-rest-api--cms-24533</li>
 </ul>
+
+<h2><b>WebPack</b></h2>
+<ul>
+  <li>https://webpack.github.io/docs/tutorials/getting-started/</li>
+  <li>http://webpack.github.io/docs/using-loaders.html</li>
+</ul>
+
+<h2><b>Ionic</b></h2>
+<ul>
+  <li>https://ionicframework.com/docs/guide/</li>
+  <li>http://www.tutorialsplane.com/ionic-introduction/</li>
+</ul>
+
+<h2><b>PHP</b></h2>
+<ul>
+  <li>https://www.codecademy.com/courses/web-beginner-en-ZQQ64/0/1?curriculum_id=5124ef4c78d510dd89003eb8</li>
+  <li>https://www.phpschool.io/</li>
+  <li>https://github.com/phptodayorg/php-must-watch#basics</li>
+  <li>http://it.phptherightway.com/</li>
+</ul>
+
+<h2><b>Gulp</b></h2>
+<ul>
+  <li>https://www.sitepoint.com/introduction-gulp-js/</li>
+  <li>http://www.neposlab.com/primi-passi-con-gulp/</li>
+  <li>http://ryanchristiani.com/getting-started-with-gulp-and-sass/</li>
+  <li>http://blog.ingruz.com/primi-passi-con-gulpjs/</li>
+  <li>https://www.sitepoint.com/simple-gulpy-workflow-sass/</li>
+</ul>
+
+<h2><b>Bower</b></h2>
+<ul>
+  <li>https://webdesign.tutsplus.com/it/tutorials/the-command-line-for-web-design-taming-3rd-party-packages--cms-23451</li>
+</ul>
+
+<h2><b>Javascript</b></h2>
+<ul>
+  <li>http://eloquentjavascript.net/</li>
+  <li>https://github.com/getify/You-Dont-Know-JS</li>
+</ul>
+
+<h2><b>Vim</b></h2>
+<ul>
+  <li>http://www.makeuseof.com/tag/5-things-need-put-vim-config-file/</li>
+  <li>https://computers.tutsplus.com/tutorials/vim-for-beginners--cms-21118</li>
+</ul>
+
+<h2><b>jQuery</b></h2>
+<ul>
+  <li>http://code.tutsplus.com/courses/30-days-to-learn-jquery</li>
+  <li>https://webdesign.tutsplus.com/series/ajax-for-front-end-designers--cms-967</li>
+</ul>
+
+<h2><b>NPM</b></h2>
+<ul>
+  <li>http://webdesign.tutsplus.com/it/tutorials/the-command-line-for-web-design-taming-3rd-party-packages--cms-23451</li>
+  <li>https://webdesign.tutsplus.com/series/the-command-line-for-web-design--cms-777utm_source=facebook&utm_medium=social&utm_campaign=social_fb_tuts_web-design</li>
+</ul>
+
+<h2><b>Design, UI, UX</b></h2>
+<ul>
+  <li>http://www.vectordiary.com/illustrator/learn-adobe-illustrator/</li>
+  <li>http://blog.invisionapp.com/becoming-a-designer-who-codes/</li>
+  <li>http://goodui.org/</li>
+  <li>https://hackdesign.org/lessons</li>
+  <li>http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals</li>
+  <li>http://www.designshock.com/avatar-icon/</li>
+</ul>
+
+<h2><b>Learn Coding & Resources</b></h2>
+<ul>
+  <li>https://github.com/vic317yeh/One-Click-to-Be-Pro</li>
+  <li>http://it-ebooks.info/</li>
+  <li>http://codingheroes.io/resources/</li>
+  <li>https://web-development.zeef.com/eduardo.bilk</li>
+  <li>https://www.bento.io/</li>
+  <li>https://www.codeschool.com/courses/fundamentals-of-design</li>
+  <li>https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md</li>
+  <li>[Books]https://onedrive.live.com/?authkey=%21ALDyJ1XA7MdsNrI&id=831D369202E8A152%2113729&cid=831D369202E8A152</li>
+  <li>https://github.com/dypsilon/frontend-dev-bookmarks</li>
+  <li>http://www.sansfrancis.co/</li>
+</ul>
+
+<h2><b>AgularJS</b></h2>
+<ul>
+  <li>http://campus.codeschool.com/courses/shaping-up-with-angular-js/contents</li>
+  <li>https://www.youtube.com/watch?v=FIbLHrfO0tU</li>
+</ul>
+
+<h2><b>GIT</b></h2>
+<ul>
+  <li>http://rogerdudler.github.io/git-guide/index.it.html</li>
+  <li>https://git-scm.com/book/it/v2</li>
+</ul>
+
+<h2><b>SASS & LESS</b></h2>
+<ul>
+  <li>http://sass-lang.com/guide</li>
+</ul>
+
+<h2><b>Bootstrap</b></h2>
+<ul>
+  <li></li>
+</ul>
