@@ -57,6 +57,7 @@
 <ul>
   <li>https://webpack.github.io/docs/tutorials/getting-started/</li>
   <li>http://webpack.github.io/docs/using-loaders.html</li>
+  <li>https://www.youtube.com/watch?v=9kJVYpOqcVU</li>
 </ul>
 
 <h2><b>Ionic</b></h2>
