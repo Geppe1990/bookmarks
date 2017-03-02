@@ -122,6 +122,13 @@
   <li>http://www.designshock.com/avatar-icon/</li>
 </ul>
 
+
+<h2><b>Typography</b></h2>
+<ul>
+  <li>https://discover.typography.com/</li>
+</ul>
+
+
 <h2><b>Learn Coding & Resources</b></h2>
 <ul>
   <li>https://github.com/vic317yeh/One-Click-to-Be-Pro</li>
