@@ -5,6 +5,7 @@
   <li>http://survivejs.com/react/introduction/</li>
   <li>https://github.com/airbnb/javascript/blob/master/react/README.md</li>
   <li>https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b</li>
+  <li>https://github.com/vasanthk/react-bits</li>
 </ul>
 
 <h2><b>Raspberry Pi</b></h2>
