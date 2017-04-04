@@ -6,6 +6,7 @@
   <li>https://github.com/airbnb/javascript/blob/master/react/README.md</li>
   <li>https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b</li>
   <li>https://github.com/vasanthk/react-bits</li>
+  <li>http://slides.com/mattiamanzati/introduzione-a-reactjs#/</li>
 </ul>
 
 <h2><b>Raspberry Pi</b></h2>
