@@ -8,6 +8,7 @@
   <li>https://github.com/vasanthk/react-bits</li>
   <li>http://slides.com/mattiamanzati/introduzione-a-reactjs#/</li>
   <li><a href="https://www.youtube.com/watch?v=IR6smI_YJDE">React Tutorial (with Webpack + ES6): Build a ToDo App with Best Practices</a></li>
+  <li><a href="https://www.youtube.com/watch?v=mwNATxfUsgI">Getting Started with React and Firebase - Firecasts</a></li>
 </ul>
 
 <h2><b>Raspberry Pi</b></h2>
@@ -171,4 +172,9 @@
 <h2><b>Facebook Ads</b></h2>
 <ul>
   <li>https://adespresso.com/guides/facebook-ads-beginner</li>
+</ul>
+
+<h2><b>Design Patterns</b></h2>
+<ul>
+  <li><a href="https://www.youtube.com/playlist?list=PLF206E906175C7E07">Derek Banas - Design Patterns Video Tutorial</a></li>
 </ul>
