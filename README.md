@@ -9,7 +9,7 @@
   <li>http://slides.com/mattiamanzati/introduzione-a-reactjs#/</li>
   <li><a href="https://www.youtube.com/watch?v=IR6smI_YJDE">React Tutorial (with Webpack + ES6): Build a ToDo App with Best Practices</a></li>
   <li><a href="https://www.youtube.com/watch?v=mwNATxfUsgI">Getting Started with React and Firebase - Firecasts</a></li>
-  <li><a href="www.thegreatcodeadventure.com/building-a-simple-crud-app-with-react-redux-part-1/">Building a Simple CRUD App with React + Redux</a></li>
+  <li><a href="http://www.thegreatcodeadventure.com/building-a-simple-crud-app-with-react-redux-part-1/">Building a Simple CRUD App with React + Redux</a></li>
 </ul>
 
 <h2><b>Raspberry Pi</b></h2>
