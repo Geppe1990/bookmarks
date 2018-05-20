@@ -9,6 +9,7 @@
   <li>http://slides.com/mattiamanzati/introduzione-a-reactjs#/</li>
   <li><a href="https://www.youtube.com/watch?v=IR6smI_YJDE">React Tutorial (with Webpack + ES6): Build a ToDo App with Best Practices</a></li>
   <li><a href="https://www.youtube.com/watch?v=mwNATxfUsgI">Getting Started with React and Firebase - Firecasts</a></li>
+  <li><a href="www.thegreatcodeadventure.com/building-a-simple-crud-app-with-react-redux-part-1/">Building a Simple CRUD App with React + Redux</a></li>
 </ul>
 
 <h2><b>Raspberry Pi</b></h2>
@@ -37,6 +38,7 @@
   <li>http://tympanus.net/codrops/2013/05/21/natural-language-form-with-custom-input-elements/</li>
   <li>http://www.webdesignerdepot.com/2016/10/20-essential-css-tricks-every-designer-should-know/</li>
   <li>https://medium.com/@PatrykZabielski/how-to-make-multi-layered-parallax-illustration-with-css-javascript-2b56883c3f27#.vs1hewtp0</li>
+  <li><a href="https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties">A Visual Guide to CSS3 Flexbox Properties ― Scotch</a></li>
 </ul>
 
 <h2><b>Terminal</b></h2>
@@ -55,6 +57,7 @@
 <ul>
   <li>https://code.tutsplus.com/series/introducing-the-wp-rest-api--cms-896</li>
   <li>https://code.tutsplus.com/tutorials/introducing-the-wp-rest-api--cms-24533</li>
+  <li><a href="https://premium.wpmudev.org/blog/wordpress-plugin-development-guide/">Getting Started with WordPress Plugin Development - WPMUDEV</a></li>
 </ul>
 
 <h2><b>WebPack</b></h2>
@@ -96,6 +99,7 @@
 <ul>
   <li>http://eloquentjavascript.net/</li>
   <li>https://github.com/getify/You-Dont-Know-JS</li>
+  <li><a href="https://github.com/verekia/js-stack-from-scratch">https://github.com/verekia/js-stack-from-scratch</a></li>
 </ul>
 
 <h2><b>Vim</b></h2>
