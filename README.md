@@ -183,3 +183,8 @@
 <ul>
   <li><a href="https://www.youtube.com/playlist?list=PLF206E906175C7E07">Derek Banas - Design Patterns Video Tutorial</a></li>
 </ul>
+
+<h2><b>Python</b></h2>
+<ul>
+  <li><a href="https://docs.python.org/3/tutorial/index.html">Python 3 Tutorial</a></li>
+</ul>
